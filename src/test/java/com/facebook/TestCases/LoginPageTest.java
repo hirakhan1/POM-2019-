@@ -3,7 +3,6 @@ package com.facebook.TestCases;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Test;
-import org.testng.asserts.SoftAssert;
 
 import com.Qa.TestBaseDemo.TestBase;
 import com.facebook.pages.LoginPage;
